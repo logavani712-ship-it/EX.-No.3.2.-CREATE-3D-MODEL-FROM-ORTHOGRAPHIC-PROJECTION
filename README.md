@@ -1,7 +1,7 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 #### Name:Logavani D
 #### Ref no:26018671
-#### Date:2.11.2026
+#### Date:2.11.2026 
 
 To create a 3D model from given orthographic projection.
 
